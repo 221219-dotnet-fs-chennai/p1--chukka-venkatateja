@@ -1,0 +1,1 @@
+Server=tcp:venkat-server-db.database.windows.net,1433;Initial Catalog=venkatdb;Persist Security Info=False;User ID=venkatadmin;Password=Chukka@1801;MultipleActiveResultSets=False;Encrypt=True;TrustServerCertificate=False;Connection Timeout=30;
