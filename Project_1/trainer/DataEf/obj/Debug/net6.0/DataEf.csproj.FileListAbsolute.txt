@@ -1,0 +1,14 @@
+C:\Users\Chukka Venkata Teja\Desktop\Project-1Clone\P1-Abdul-Aleem\Project_1\trainer\DataEf\bin\Debug\net6.0\DataEf.deps.json
+C:\Users\Chukka Venkata Teja\Desktop\Project-1Clone\P1-Abdul-Aleem\Project_1\trainer\DataEf\bin\Debug\net6.0\DataEf.runtimeconfig.json
+C:\Users\Chukka Venkata Teja\Desktop\Project-1Clone\P1-Abdul-Aleem\Project_1\trainer\DataEf\bin\Debug\net6.0\DataEf.dll
+C:\Users\Chukka Venkata Teja\Desktop\Project-1Clone\P1-Abdul-Aleem\Project_1\trainer\DataEf\bin\Debug\net6.0\DataEf.pdb
+C:\Users\Chukka Venkata Teja\Desktop\Project-1Clone\P1-Abdul-Aleem\Project_1\trainer\DataEf\obj\Debug\net6.0\DataEf.csproj.AssemblyReference.cache
+C:\Users\Chukka Venkata Teja\Desktop\Project-1Clone\P1-Abdul-Aleem\Project_1\trainer\DataEf\obj\Debug\net6.0\DataEf.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Chukka Venkata Teja\Desktop\Project-1Clone\P1-Abdul-Aleem\Project_1\trainer\DataEf\obj\Debug\net6.0\DataEf.AssemblyInfoInputs.cache
+C:\Users\Chukka Venkata Teja\Desktop\Project-1Clone\P1-Abdul-Aleem\Project_1\trainer\DataEf\obj\Debug\net6.0\DataEf.AssemblyInfo.cs
+C:\Users\Chukka Venkata Teja\Desktop\Project-1Clone\P1-Abdul-Aleem\Project_1\trainer\DataEf\obj\Debug\net6.0\DataEf.csproj.CoreCompileInputs.cache
+C:\Users\Chukka Venkata Teja\Desktop\Project-1Clone\P1-Abdul-Aleem\Project_1\trainer\DataEf\obj\Debug\net6.0\DataEf.dll
+C:\Users\Chukka Venkata Teja\Desktop\Project-1Clone\P1-Abdul-Aleem\Project_1\trainer\DataEf\obj\Debug\net6.0\refint\DataEf.dll
+C:\Users\Chukka Venkata Teja\Desktop\Project-1Clone\P1-Abdul-Aleem\Project_1\trainer\DataEf\obj\Debug\net6.0\DataEf.pdb
+C:\Users\Chukka Venkata Teja\Desktop\Project-1Clone\P1-Abdul-Aleem\Project_1\trainer\DataEf\obj\Debug\net6.0\DataEf.genruntimeconfig.cache
+C:\Users\Chukka Venkata Teja\Desktop\Project-1Clone\P1-Abdul-Aleem\Project_1\trainer\DataEf\obj\Debug\net6.0\ref\DataEf.dll

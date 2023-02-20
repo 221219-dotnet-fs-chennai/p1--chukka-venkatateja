@@ -1,0 +1,12 @@
+C:\Users\Chukka Venkata Teja\Desktop\Project-1Clone\P1-Abdul-Aleem\Project_1\trainer\Models\bin\Debug\net6.0\Models.deps.json
+C:\Users\Chukka Venkata Teja\Desktop\Project-1Clone\P1-Abdul-Aleem\Project_1\trainer\Models\bin\Debug\net6.0\Models.dll
+C:\Users\Chukka Venkata Teja\Desktop\Project-1Clone\P1-Abdul-Aleem\Project_1\trainer\Models\bin\Debug\net6.0\Models.pdb
+C:\Users\Chukka Venkata Teja\Desktop\Project-1Clone\P1-Abdul-Aleem\Project_1\trainer\Models\obj\Debug\net6.0\Models.csproj.AssemblyReference.cache
+C:\Users\Chukka Venkata Teja\Desktop\Project-1Clone\P1-Abdul-Aleem\Project_1\trainer\Models\obj\Debug\net6.0\Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Chukka Venkata Teja\Desktop\Project-1Clone\P1-Abdul-Aleem\Project_1\trainer\Models\obj\Debug\net6.0\Models.AssemblyInfoInputs.cache
+C:\Users\Chukka Venkata Teja\Desktop\Project-1Clone\P1-Abdul-Aleem\Project_1\trainer\Models\obj\Debug\net6.0\Models.AssemblyInfo.cs
+C:\Users\Chukka Venkata Teja\Desktop\Project-1Clone\P1-Abdul-Aleem\Project_1\trainer\Models\obj\Debug\net6.0\Models.csproj.CoreCompileInputs.cache
+C:\Users\Chukka Venkata Teja\Desktop\Project-1Clone\P1-Abdul-Aleem\Project_1\trainer\Models\obj\Debug\net6.0\Models.dll
+C:\Users\Chukka Venkata Teja\Desktop\Project-1Clone\P1-Abdul-Aleem\Project_1\trainer\Models\obj\Debug\net6.0\refint\Models.dll
+C:\Users\Chukka Venkata Teja\Desktop\Project-1Clone\P1-Abdul-Aleem\Project_1\trainer\Models\obj\Debug\net6.0\Models.pdb
+C:\Users\Chukka Venkata Teja\Desktop\Project-1Clone\P1-Abdul-Aleem\Project_1\trainer\Models\obj\Debug\net6.0\ref\Models.dll
